@@ -14,12 +14,12 @@ public class StartButton : MonoBehaviour
         gameHandler.startGame();
     }
 
-    public void hideButton() // hide button
+    public void hideButton() 
     {
         startButton.SetActive(false);
     }
     
-    public void showButton() // show button TEST
+    public void showButton() 
     {
         startButton.SetActive(true);
     }
