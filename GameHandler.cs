@@ -18,7 +18,7 @@ public class GameHandler : MonoBehaviour
         gameScreen.SetActive(false);
     }
 
-    public void startGame()
+    public void startGame() // go from start screen to game screen
     {
         startScreen.SetActive(false);
         gameScreen.SetActive(true);
