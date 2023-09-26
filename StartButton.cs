@@ -19,7 +19,7 @@ public class StartButton : MonoBehaviour
         startButton.SetActive(false);
     }
     
-    public void showButton() // show button
+    public void showButton() // show button TEST
     {
         startButton.SetActive(true);
     }
