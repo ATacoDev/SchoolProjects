@@ -14,7 +14,7 @@ public class PaddleP1 : MonoBehaviour
       // if paddle hits a border, print ("Paddle hit a border") to console
    }
 
-   private void Move() // move the paddle
+   private void Move() 
    {
       if (Input.GetKey(KeyCode.S))
       {
