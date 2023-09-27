@@ -9,7 +9,10 @@ public class GameHandler : MonoBehaviour
 
     public GameObject startScreen;
     public GameObject gameScreen;
-    
+
+    public Paddle paddleP1;
+    public Paddle paddleP2;
+
     void Start()
     {
         startMenuButton.showButton();
@@ -23,6 +26,13 @@ public class GameHandler : MonoBehaviour
         startScreen.SetActive(false);
         gameScreen.SetActive(true);
         startGameButton.showButton();
+        unfreezePaddles();
+    }
+
+    private void unfreezePaddles()
+    {
+        paddleP1.unfreezePaddles();
+        paddleP2.unfreezePaddles();
     }
     
 }

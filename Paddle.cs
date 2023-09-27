@@ -12,5 +12,11 @@ public class Paddle : MonoBehaviour
     private void Awake()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
+        _rigidbody.constraints = RigidbodyConstraints2D.FreezeAll;
+    }
+
+    public void unfreezePaddles()
+    {
+        _rigidbody.constraints = RigidbodyConstraints2D.None;
     }
 }
