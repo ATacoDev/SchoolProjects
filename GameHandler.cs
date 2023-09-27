@@ -24,10 +24,5 @@ public class GameHandler : MonoBehaviour
         gameScreen.SetActive(true);
         startGameButton.showButton();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }
