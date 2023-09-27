@@ -25,13 +25,5 @@ public class PaddleP1 : MonoBehaviour
          transform.Translate(Vector3.up * Time.deltaTime * 10f);
       }
    }
-
-   private void CollisionHandler(Collision2D collision)
-   {
-      if (collision.gameObject.CompareTag("Border"))
-      {
-         Debug.Log("Paddle hit a border");
-      }
-   }
    
 }
