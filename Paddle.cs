@@ -17,6 +17,6 @@ public class Paddle : MonoBehaviour
 
     public void unfreezePaddles()
     {
-        _rigidbody.constraints = RigidbodyConstraints2D.None;
+        _rigidbody.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezeRotation;
     }
 }
