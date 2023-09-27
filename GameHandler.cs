@@ -26,12 +26,11 @@ public class GameHandler : MonoBehaviour
         startScreen.SetActive(false);
         gameScreen.SetActive(true);
         startGameButton.showButton();
-        unfreezePaddles();
     }
 
-    private void unfreezePaddles()
+    public void unfreezePaddles()
     {
-        paddleP1.unfreezePaddles();
+        paddleP1.unfreezePaddles(); 
         paddleP2.unfreezePaddles();
     }
     
