@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class ComputerPaddle: Paddle
 {
     public Rigidbody2D ball;
-    private void FixedUpdate()
+    private void FixedUpdate() // Control the computer paddle
     {
         if (this.ball.velocity.x > 0.0f)
         {
