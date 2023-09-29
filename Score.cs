@@ -10,6 +10,11 @@ public class Score : MonoBehaviour
 
     public void Update()
     {
-        scoreText.text = score.ToString();
+        scoreText.text = getScore();
+    }
+
+    public string getScore()
+    {
+        return score.ToString();
     }
 }
