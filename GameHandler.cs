@@ -12,6 +12,8 @@ public class GameHandler : MonoBehaviour
 
     public Paddle paddleP1;
     public Paddle paddleP2;
+    
+    public Ball ball;
 
     void Start()
     {
@@ -19,6 +21,7 @@ public class GameHandler : MonoBehaviour
         startGameButton.hideButton();
         startScreen.SetActive(true);
         gameScreen.SetActive(false);
+        ball.freezeBall();
     }
 
     public void startGame() // go from start screen to game screen
@@ -33,5 +36,10 @@ public class GameHandler : MonoBehaviour
         paddleP1.unfreezePaddles(); 
         paddleP2.unfreezePaddles();
     }
-    
+
+    public void unfreezeBall()
+    {
+        ball.unfreezeBall();
+        ball.AddBallStartingForce();
+    }
 }

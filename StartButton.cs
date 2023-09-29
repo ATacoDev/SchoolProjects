@@ -24,8 +24,9 @@ public class StartButton : MonoBehaviour
         startButton.SetActive(true);
     }
 
-    public void unfreezePaddles()
+    public void unfreezeGame()
     {
         gameHandler.unfreezePaddles();
+        gameHandler.unfreezeBall();
     }
 }

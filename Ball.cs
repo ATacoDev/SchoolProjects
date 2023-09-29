@@ -8,19 +8,29 @@ public class Ball : MonoBehaviour
 {
     private Rigidbody2D _rigidbody;
 
-    public float speed = 200.0f;
+    public float speed = 400.0f;
 
     private void Awake()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
     }
 
-    private void Start()
+    public void freezeBall()
     {
-        AddStartingFoce();
+        _rigidbody.constraints = RigidbodyConstraints2D.FreezeAll;
+    }
+    
+    public void unfreezeBall()
+    {
+        _rigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
     }
 
-    private void AddStartingFoce()
+    public void Reset()
+    {
+        this.transform.position = Vector3.zero;
+    }
+
+    public void AddBallStartingForce()
     {
         float x = Random.value < 0.5f ? -1.0f : 1.0f; // if less then half (left), if greater (right)
         float y = Random.value < 0.5f ? Random.Range(-1.0f, -0.5f) : Random.Range(0.5f, 1.0f); // if 0, ball would go perfectly horizontal
