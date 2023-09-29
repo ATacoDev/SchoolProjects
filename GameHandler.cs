@@ -48,11 +48,11 @@ public class GameHandler : MonoBehaviour
 
     public void playerScoresBall()
     {
-        playerScore.score++;
+        playerScore.increaseScore();
     }
 
     public void computerScoresBall()
     {
-        computerScore.score++;
+        computerScore.increaseScore();
     }
 }

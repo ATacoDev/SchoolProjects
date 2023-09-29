@@ -1,11 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Score : MonoBehaviour
 {
-    public Text scoreText;
+    public TMP_Text scoreText;
     public int score;
 
     public void Update()
@@ -17,4 +18,10 @@ public class Score : MonoBehaviour
     {
         return score.ToString();
     }
+
+    public void increaseScore()
+    {
+        score++;
+    }
+
 }
