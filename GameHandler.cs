@@ -12,8 +12,11 @@ public class GameHandler : MonoBehaviour
 
     public Paddle paddleP1;
     public Paddle paddleP2;
-    
+
     public Ball ball;
+
+    public Score playerScore;
+    public Score computerScore;
 
     void Start()
     {
@@ -33,7 +36,7 @@ public class GameHandler : MonoBehaviour
 
     public void unfreezePaddles()
     {
-        paddleP1.unfreezePaddles(); 
+        paddleP1.unfreezePaddles();
         paddleP2.unfreezePaddles();
     }
 
@@ -41,5 +44,15 @@ public class GameHandler : MonoBehaviour
     {
         ball.unfreezeBall();
         ball.AddBallStartingForce();
+    }
+
+    public void playerScoresBall()
+    {
+        playerScore.score++;
+    }
+
+    public void computerScoresBall()
+    {
+        computerScore.score++;
     }
 }
