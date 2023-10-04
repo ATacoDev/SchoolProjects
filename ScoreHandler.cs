@@ -15,7 +15,6 @@ public class ScoreHandler : MonoBehaviour
         {
             BaseEventData eventData = new BaseEventData(EventSystem.current);
             this.scoreTrigger.Invoke(eventData);
-            Debug.Log("Collision");
         }
     }
 }

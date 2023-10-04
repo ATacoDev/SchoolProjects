@@ -19,4 +19,10 @@ public class Paddle : MonoBehaviour
     {
         _rigidbody.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezeRotation;
     }
+
+    public void reset()
+    {
+        this.transform.position = new Vector3(this.transform.position.x, 0.0f, this.transform.position.z);
+    }
+    
 }

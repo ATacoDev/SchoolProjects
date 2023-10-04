@@ -49,10 +49,21 @@ public class GameHandler : MonoBehaviour
     public void playerScoresBall()
     {
         playerScore.increaseScore();
+        ball.Reset();
+        resetPaddles();
     }
 
     public void computerScoresBall()
     {
         computerScore.increaseScore();
+        ball.Reset();
+        resetPaddles();
     }
+
+    public void resetPaddles()
+    {
+        paddleP1.reset();
+        paddleP2.reset();
+    }
+    
 }
