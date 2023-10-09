@@ -49,6 +49,15 @@ public class GameHandler : MonoBehaviour
         startGameButton.showButton();
     }
 
+    public void reset()
+    {
+        playerScore.reset();
+        computerScore.reset();
+        ball.freezeBall();
+        ball.Reset();
+        startGameButton.showButton();
+    }
+
     public void unfreezePaddles()
     {
         paddleP1.unfreezePaddles();
@@ -112,5 +121,12 @@ public class GameHandler : MonoBehaviour
             loseScreen.SetActive(true);
         }
     }
+
+    public void PlayAgain()
+    {
+        // reset everything and let the user play again
+        // reset the paddles and the ball
+    }
+    
     
 }

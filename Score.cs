@@ -31,4 +31,9 @@ public class Score : MonoBehaviour
         score++;
     }
 
+    public void reset()
+    {
+        score = 0;
+    }
+
 }
