@@ -1,0 +1,1071 @@
+GAME START!
+Levels: 3
+Dimension: 5 x 5
+
+
+X C C G K 
+G W X X G 
+B C G M M 
+M K M C H 
+G X K G M 
+
+C C M W K 
+M C K M G 
+B X K C M 
+K M G C M 
+X M M C G 
+
+C C X X X 
+K C C X C 
+X K G B X 
+G G K G G 
+X K X K K 
+
+-------------------------
+Level: 0
+Mario is on position: (3, 4)
+Mario is moving UP!
+Mario found a MUSHROOM!
+Coins collected: 0
+Health: 10
+Power: 1
+Enemies defeated in a row: 0
+X C C G K 
+G W X X G 
+B C G M H 
+M K M C X 
+G X K G M 
+
+-------------------------
+Level: 0
+Mario is on position: (2, 4)
+Mario is moving UP!
+Mario found a GOOMBA and WON!
+Coins collected: 0
+Health: 10
+Power: 1
+Enemies defeated in a row: 1
+X C C G K 
+G W X X H 
+B C G M X 
+M K M C X 
+G X K G M 
+
+-------------------------
+Level: 0
+Mario is on position: (1, 4)
+Mario is moving UP!
+Mario found a KOOPA and WON!
+Coins collected: 0
+Health: 10
+Power: 1
+Enemies defeated in a row: 2
+X C C G H 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G M 
+
+-------------------------
+Level: 0
+Mario is on position: (0, 4)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 1
+Enemies defeated in a row: 2
+X C C G X 
+G W X X H 
+B C G M X 
+M K M C X 
+G X K G M 
+
+-------------------------
+Level: 0
+Mario is on position: (1, 4)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 1
+Enemies defeated in a row: 2
+X C C G H 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G M 
+
+-------------------------
+Level: 0
+Mario is on position: (0, 4)
+Mario is moving RIGHT!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 1
+Enemies defeated in a row: 2
+H C C G X 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G M 
+
+-------------------------
+Level: 0
+Mario is on position: (0, 0)
+Mario is moving LEFT!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 1
+Enemies defeated in a row: 2
+X C C G H 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G M 
+
+-------------------------
+Level: 0
+Mario is on position: (0, 4)
+Mario is moving UP!
+Mario found a MUSHROOM!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 2
+X C C G X 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G H 
+
+-------------------------
+Level: 0
+Mario is on position: (4, 4)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 2
+X C C G H 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G X 
+
+-------------------------
+Level: 0
+Mario is on position: (0, 4)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 2
+X C C G X 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G H 
+
+-------------------------
+Level: 0
+Mario is on position: (4, 4)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 2
+X C C G H 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G X 
+
+-------------------------
+Level: 0
+Mario is on position: (0, 4)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 2
+X C C G X 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G H 
+
+-------------------------
+Level: 0
+Mario is on position: (4, 4)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 2
+X C C G H 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G X 
+
+-------------------------
+Level: 0
+Mario is on position: (0, 4)
+Mario is moving RIGHT!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 2
+H C C G X 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G X 
+
+-------------------------
+Level: 0
+Mario is on position: (0, 0)
+Mario is moving LEFT!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 2
+X C C G H 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G X 
+
+-------------------------
+Level: 0
+Mario is on position: (0, 4)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 2
+X C C G X 
+G W X X X 
+B C G M X 
+M K M C X 
+G X K G H 
+
+-------------------------
+Level: 0
+Mario is on position: (4, 4)
+Mario is moving RIGHT!
+Mario found a GOOMBA and WON!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 3
+X C C G X 
+G W X X X 
+B C G M X 
+M K M C X 
+H X K G X 
+
+-------------------------
+Level: 0
+Mario is on position: (4, 0)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 3
+H C C G X 
+G W X X X 
+B C G M X 
+M K M C X 
+X X K G X 
+
+-------------------------
+Level: 0
+Mario is on position: (0, 0)
+Mario is moving DOWN!
+Mario found a GOOMBA and WON!
+Coins collected: 0
+Health: 10
+Power: 2
+Enemies defeated in a row: 4
+X C C G X 
+H W X X X 
+B C G M X 
+M K M C X 
+X X K G X 
+
+-------------------------
+Level: 0
+Mario is on position: (1, 0)
+Mario is moving RIGHT!
+Mario found the WARP PORTAL!
+Mario collected a COIN!
+Coins collected: 1
+Health: 10
+Power: 2
+Enemies defeated in a row: 4
+C C M W K 
+M C K M G 
+B X K C M 
+K M G C M 
+X M M H G 
+
+-------------------------
+Level: 1
+Mario is on position: (4, 3)
+Mario is moving RIGHT!
+Mario found a GOOMBA and WON!
+Coins collected: 1
+Health: 10
+Power: 2
+Enemies defeated in a row: 5
+C C M W K 
+M C K M G 
+B X K C M 
+K M G C M 
+X M M X H 
+
+-------------------------
+Level: 1
+Mario is on position: (4, 4)
+Mario is moving UP!
+Mario found a MUSHROOM!
+Coins collected: 1
+Health: 10
+Power: 2
+Enemies defeated in a row: 5
+C C M W K 
+M C K M G 
+B X K C M 
+K M G C H 
+X M M X X 
+
+-------------------------
+Level: 1
+Mario is on position: (3, 4)
+Mario is moving RIGHT!
+Mario found a KOOPA and WON!
+Coins collected: 1
+Health: 10
+Power: 2
+Enemies defeated in a row: 6
+C C M W K 
+M C K M G 
+B X K C M 
+H M G C X 
+X M M X X 
+
+-------------------------
+Level: 1
+Mario is on position: (3, 0)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 1
+Health: 10
+Power: 2
+Enemies defeated in a row: 6
+C C M W K 
+M C K M G 
+B X K C M 
+X M G C X 
+H M M X X 
+
+-------------------------
+Level: 1
+Mario is on position: (4, 0)
+Mario is moving RIGHT!
+Mario found a MUSHROOM!
+Coins collected: 1
+Health: 10
+Power: 2
+Enemies defeated in a row: 6
+C C M W K 
+M C K M G 
+B X K C M 
+X M G C X 
+X H M X X 
+
+-------------------------
+Level: 1
+Mario is on position: (4, 1)
+Mario is moving RIGHT!
+Mario found a MUSHROOM!
+Coins collected: 1
+Health: 10
+Power: 2
+Enemies defeated in a row: 6
+C C M W K 
+M C K M G 
+B X K C M 
+X M G C X 
+X X H X X 
+
+-------------------------
+Level: 1
+Mario is on position: (4, 2)
+Mario is moving UP!
+Mario found a GOOMBA and WON!
+Coins collected: 1
+Health: 11
+Power: 2
+Enemies defeated in a row: 0
+C C M W K 
+M C K M G 
+B X K C M 
+X M H C X 
+X X X X X 
+
+-------------------------
+Level: 1
+Mario is on position: (3, 2)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 1
+Health: 11
+Power: 2
+Enemies defeated in a row: 0
+C C M W K 
+M C K M G 
+B X K C M 
+X M X C X 
+X X H X X 
+
+-------------------------
+Level: 1
+Mario is on position: (4, 2)
+Mario is moving LEFT!
+Mario found an EMPTY SPACE!
+Coins collected: 1
+Health: 11
+Power: 2
+Enemies defeated in a row: 0
+C C M W K 
+M C K M G 
+B X K C M 
+X M X C X 
+X H X X X 
+
+-------------------------
+Level: 1
+Mario is on position: (4, 1)
+Mario is moving DOWN!
+Mario collected a COIN!
+Coins collected: 2
+Health: 11
+Power: 2
+Enemies defeated in a row: 0
+C H M W K 
+M C K M G 
+B X K C M 
+X M X C X 
+X X X X X 
+
+-------------------------
+Level: 1
+Mario is on position: (0, 1)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 2
+Health: 11
+Power: 2
+Enemies defeated in a row: 0
+C X M W K 
+M C K M G 
+B X K C M 
+X M X C X 
+X H X X X 
+
+-------------------------
+Level: 1
+Mario is on position: (4, 1)
+Mario is moving LEFT!
+Mario found an EMPTY SPACE!
+Coins collected: 2
+Health: 11
+Power: 2
+Enemies defeated in a row: 0
+C X M W K 
+M C K M G 
+B X K C M 
+X M X C X 
+H X X X X 
+
+-------------------------
+Level: 1
+Mario is on position: (4, 0)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 2
+Health: 11
+Power: 2
+Enemies defeated in a row: 0
+C X M W K 
+M C K M G 
+B X K C M 
+H M X C X 
+X X X X X 
+
+-------------------------
+Level: 1
+Mario is on position: (3, 0)
+Mario is moving UP!
+Mario found THE BOSS and LOST! Mario will attempt again!
+Mario found THE BOSS and LOST! Mario will attempt again!
+Mario found THE BOSS and LOST! Mario will attempt again!
+Mario found THE BOSS and LOST! Mario will attempt again!
+Mario found THE BOSS and WON!
+Coins collected: 2
+Health: 8
+Power: 0
+Enemies defeated in a row: 1
+C X M W K 
+M C K M G 
+H X K C M 
+X M X C X 
+X X X X X 
+
+-------------------------
+Boss Beaten! Moving to next level
+Mario spawned on an EMPTY SPACE!
+Level: 2
+Mario is on position: (1, 3)
+Mario is moving RIGHT!
+Mario collected a COIN!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 1
+C C X X X 
+K C C X H 
+X K G B X 
+G G K G G 
+X K X K K 
+
+-------------------------
+Level: 2
+Mario is on position: (1, 4)
+Mario is moving LEFT!
+Mario found an EMPTY SPACE!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 1
+C C X X X 
+K C C H X 
+X K G B X 
+G G K G G 
+X K X K K 
+
+-------------------------
+Level: 2
+Mario is on position: (1, 3)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 1
+C C X H X 
+K C C X X 
+X K G B X 
+G G K G G 
+X K X K K 
+
+-------------------------
+Level: 2
+Mario is on position: (0, 3)
+Mario is moving LEFT!
+Mario found an EMPTY SPACE!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 1
+C C H X X 
+K C C X X 
+X K G B X 
+G G K G G 
+X K X K K 
+
+-------------------------
+Level: 2
+Mario is on position: (0, 2)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 1
+C C X X X 
+K C C X X 
+X K G B X 
+G G K G G 
+X K H K K 
+
+-------------------------
+Level: 2
+Mario is on position: (4, 2)
+Mario is moving RIGHT!
+Mario found a KOOPA and WON!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 2
+C C X X X 
+K C C X X 
+X K G B X 
+G G K G G 
+X K X H K 
+
+-------------------------
+Level: 2
+Mario is on position: (4, 3)
+Mario is moving UP!
+Mario found a GOOMBA and WON!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+C C X X X 
+K C C X X 
+X K G B X 
+G G K H G 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 3)
+Mario is moving LEFT!
+Mario found a KOOPA and WON!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 4
+C C X X X 
+K C C X X 
+X K G B X 
+G G H X G 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 2)
+Mario is moving UP!
+Mario found a GOOMBA and WON!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 5
+C C X X X 
+K C C X X 
+X K H B X 
+G G X X G 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (2, 2)
+Mario is moving LEFT!
+Mario found a KOOPA and WON!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 6
+C C X X X 
+K C C X X 
+X H X B X 
+G G X X G 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (2, 1)
+Mario is moving DOWN!
+Mario found a GOOMBA and WON!
+Coins collected: 3
+Health: 9
+Power: 0
+Enemies defeated in a row: 0
+C C X X X 
+K C C X X 
+X X X B X 
+G H X X G 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 1)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 3
+Health: 9
+Power: 0
+Enemies defeated in a row: 0
+C C X X X 
+K C C X X 
+X H X B X 
+G X X X G 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (2, 1)
+Mario is moving LEFT!
+Mario found an EMPTY SPACE!
+Coins collected: 3
+Health: 9
+Power: 0
+Enemies defeated in a row: 0
+C C X X X 
+K C C X X 
+H X X B X 
+G X X X G 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (2, 0)
+Mario is moving DOWN!
+Mario found a GOOMBA and LOST! Mario will attempt again!
+Mario found a GOOMBA and WON!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 1
+C C X X X 
+K C C X X 
+X X X B X 
+H X X X G 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 0)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 1
+C C X X X 
+K C C X X 
+H X X B X 
+X X X X G 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (2, 0)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 1
+C C X X X 
+K C C X X 
+X X X B X 
+H X X X G 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 0)
+Mario is moving LEFT!
+Mario found a GOOMBA and WON!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 2
+C C X X X 
+K C C X X 
+X X X B X 
+X X X X H 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 4)
+Mario is moving RIGHT!
+Mario found an EMPTY SPACE!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 2
+C C X X X 
+K C C X X 
+X X X B X 
+H X X X X 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 0)
+Mario is moving RIGHT!
+Mario found an EMPTY SPACE!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 2
+C C X X X 
+K C C X X 
+X X X B X 
+X H X X X 
+X K X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 1)
+Mario is moving DOWN!
+Mario found a KOOPA and WON!
+Coins collected: 3
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+C C X X X 
+K C C X X 
+X X X B X 
+X X X X X 
+X H X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (4, 1)
+Mario is moving DOWN!
+Mario collected a COIN!
+Coins collected: 4
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+C H X X X 
+K C C X X 
+X X X B X 
+X X X X X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (0, 1)
+Mario is moving LEFT!
+Mario collected a COIN!
+Coins collected: 5
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+H X X X X 
+K C C X X 
+X X X B X 
+X X X X X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (0, 0)
+Mario is moving RIGHT!
+Mario found an EMPTY SPACE!
+Coins collected: 5
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X H X X X 
+K C C X X 
+X X X B X 
+X X X X X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (0, 1)
+Mario is moving DOWN!
+Mario collected a COIN!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X X X X X 
+K H C X X 
+X X X B X 
+X X X X X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (1, 1)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X X X X X 
+K X C X X 
+X H X B X 
+X X X X X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (2, 1)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X X X X X 
+K X C X X 
+X X X B X 
+X H X X X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 1)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X X X X X 
+K X C X X 
+X H X B X 
+X X X X X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (2, 1)
+Mario is moving RIGHT!
+Mario found an EMPTY SPACE!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X X X X X 
+K X C X X 
+X X H B X 
+X X X X X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (2, 2)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X X X X X 
+K X C X X 
+X X X B X 
+X X H X X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 2)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X X X X X 
+K X C X X 
+X X X B X 
+X X X X X 
+X X H X K 
+
+-------------------------
+Level: 2
+Mario is on position: (4, 2)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X X X X X 
+K X C X X 
+X X X B X 
+X X H X X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 2)
+Mario is moving RIGHT!
+Mario found an EMPTY SPACE!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X X X X X 
+K X C X X 
+X X X B X 
+X X X H X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 3)
+Mario is moving DOWN!
+Mario found an EMPTY SPACE!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X X X X X 
+K X C X X 
+X X X B X 
+X X X X X 
+X X X H K 
+
+-------------------------
+Level: 2
+Mario is on position: (4, 3)
+Mario is moving UP!
+Mario found an EMPTY SPACE!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 3
+X X X X X 
+K X C X X 
+X X X B X 
+X X X H X 
+X X X X K 
+
+-------------------------
+Level: 2
+Mario is on position: (3, 3)
+Mario is moving UP!
+Mario found THE BOSS and WON!
+Coins collected: 6
+Health: 8
+Power: 0
+Enemies defeated in a row: 4
+X X X X X 
+K X C X X 
+X X X H X 
+X X X X X 
+X X X X K 
+
+-------------------------
+Level: 2
+FINAL BOSS BEATEN!
+YOU WIN
+Took 69 moves
