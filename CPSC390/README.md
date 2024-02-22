@@ -1,1 +1,1 @@
-# Artificial Intelligence
+# CPSC390: Artificial Intelligence
